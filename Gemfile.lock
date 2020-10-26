@@ -65,6 +65,7 @@ PLATFORMS
 
 DEPENDENCIES
   capybara
+  nokogiri (~> 1.10, >= 1.10.8)
   pry
   rack-test
   rake
@@ -74,4 +75,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   2.0.1
+   2.1.4
